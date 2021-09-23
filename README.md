@@ -8,4 +8,7 @@ Rebuild Process
   - nav (page)
 - main
   -section
-    -article    
+    -article
+  -section
+    -article
+- footer      
